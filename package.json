@@ -1,7 +1,7 @@
 {
   "name": "blog-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Blog Page for RNTs",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
