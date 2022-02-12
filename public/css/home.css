@@ -106,3 +106,13 @@ body {
   border-radius: 10px;
   margin-bottom: 10px;
 }
+
+.blog-overview {
+  margin: 10px 0 20px;
+  line-height: 30px;
+}
+
+.btn.dark {
+  background: black;
+  color: white;
+}
